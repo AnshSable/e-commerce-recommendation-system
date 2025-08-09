@@ -33,9 +33,7 @@ The model is trained on the **Amazon Electronics Ratings Dataset** and deployed 
 ┣ 📜 .gitignore # Ignore venv/pycache
 ┗ 📂 screenshots # Folder for app screenshots
 
-yaml
-Copy
-Edit
+
 
 ---
 
