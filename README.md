@@ -23,7 +23,7 @@ The model is trained on the **Amazon Electronics Ratings Dataset** and deployed 
 
 ---
 
-<!-- ## 🗂 Project Structure
+## 🗂 Project Structure
 📦 project-folder
 ┣ 📜 app.py # Streamlit application
 ┣ 📜 item_based_cf_model.pkl # Trained Surprise model
@@ -74,4 +74,4 @@ If product is new → Popular products are shown
 
 📊 User-based Recommendation
 
-📦 Product-based Recommendation -->
+📦 Product-based Recommendation
