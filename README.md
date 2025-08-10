@@ -72,7 +72,10 @@ If product is new → Popular products are shown
 
 📷 Screenshots
 🏠 Home Page
+<img width="1920" height="978" alt="image" src="https://github.com/user-attachments/assets/3f2b3614-32d1-463c-8f0a-7b0baa03df50" />
 
 📊 User-based Recommendation
+<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/18b58fcf-c48f-42dd-b8a1-83491b214ddd" />
 
 📦 Product-based Recommendation
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/60ab8b90-d9a9-467b-92b6-08da90206c27" />
