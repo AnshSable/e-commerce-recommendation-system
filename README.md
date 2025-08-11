@@ -79,3 +79,5 @@ If product is new → Popular products are shown
 
 📦 Product-based Recommendation
 <img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/60ab8b90-d9a9-467b-92b6-08da90206c27" />
+
+deployed using streamlit 
